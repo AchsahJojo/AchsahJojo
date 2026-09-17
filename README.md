@@ -1,6 +1,6 @@
 ### Hi, I'm Achsah 👋
 
-- I’m currently building on **GradQuest**, my CSUMB Capstone — a grad program recommendation platform that matches CVs with top k grad sc school programs + the job hunt for SWE / ML roles after my **Dec 2026** graduation.
+- I’m currently building on **GradQuest**, my CSUMB Capstone — a grad program recommendation platform that matches CVs with top k grad school programs + the job hunt for SWE / ML roles after my **Dec 2026** graduation.
 - I’m currently learning deeper **ML/AI** (Advanced Machine Learning TA) and building production instincts from SWE, IT, and research internships.
 - I’m looking to collaborate on **student-built tools**, hackathons (I founded Google-funded **OtterHacks**), and projects that mix **full-stack + applied ML**.
 - I’m looking for help with **breaking into new-grad / early-career SWE or ML roles** in California (Irvine / Bay Area) and navigating the post-grad path.
